@@ -10,6 +10,6 @@ int main(void) {
         EndDrawing();
     }
 
-    CloseWindow();
+    CloseWindow();  //hello world
     return 0;
 }
